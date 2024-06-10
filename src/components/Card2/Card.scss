@@ -1,7 +1,7 @@
 .card {
     display: grid;
-    grid-template-columns: auto 1fr; /* Первая колонка для изображения, вторая - для текста */
-    gap: 20px; /* Расстояние между изображением и текстом */
+    grid-template-columns: auto 1fr; 
+    gap: 20px;
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
